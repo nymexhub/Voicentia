@@ -1,36 +1,67 @@
-# Demo: A Simple Voice AI Bot with Web Speech API and Node.js
+# Web Speech AI 2.0
 
-This demo uses the experimental Web Speech API, which is currently only [supported](http://caniuse.com/#search=speech) by Blink-based browsers including Chrome 25+, Opera 27+, Samsung Internet, QQ Browser, and Baidu Browser.
+[![Build Status](https://travis-ci.org/node-red/node-red.svg)](https://travis-ci.org/theatherflix/theatherflix)
+[![Coverage Status](https://coveralls.io/repos/node-red/node-red/badge.svg?branch=master)](https://coveralls.io/r/theatherflix/theatherflix?branch=master) 
 
-[![View the demo on Vimeo](https://i.vimeocdn.com/video/633160262_480x297.jpg)](https://vimeo.com/215612852)
+Thi is a AI project made up with node.js and crafted by some other tools I found on the web. Let's make it grow. Contact me.
 
-View the demo on [Vimeo](https://vimeo.com/215612852/)
+## Quick Start
 
+1. `sudo npm install`
+2. `nodemon index.js`
+3. Open <http://localhost:5000>
 
+## Getting Help
 
-This is how this web app works:
-
-1. Using the Web Speech API’s `SpeechRecognition` interface to listen your voice from a microphone
-2. Send your message to [API.ai](https://api.ai) (the natural language processing platform) as a text string
-3. Once the AI from the API.ai returns the reply text back, use the `SpeechSynthesis` interface to give it a synthetic voice.
-
-
-
-
-### Try It on Your Own Server
-
-Rename the `.env_test` to `.env` and fill the env vars:
-
-```
-APIAI_TOKEN=
-APIAI_SESSION_ID=
-```
-
-The first one is an API.ai API key (Please get one by sign up with [API.ai](https://api.ai)), and the second one is a session ID, which is an arbitrary string.
-
-Or use this Heroku button to deploy to Heroku server. You just need to fill out the env vars with the API key and a session ID. No need to create an `.env` file.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/girliemac/web-speech-ai)
+More info or contributions go to [felipe.dev.engr.js@gmail.com] 
 
 
+## Developers
 
+If you want to run the latest code from git, here's how to get started:
+
+1. Clone the code:
+
+        git clone git@github.com:felipealfonsog.......
+        cd ..............
+
+2. Install the theatherflix dependencies
+
+        npm install
+
+3. Build the code
+
+        npm run build
+
+4. Run
+
+        npm start
+   or
+
+        node app.js
+
+## Contributing
+
+Before raising a pull-request, please read our
+Email me first of all: felipe.dev.engr.js@gmail.com and,
+
+This project adheres to the [Contributor Covenant 1.4](http://contributor-covenant.org/version/1/4/).
+ By participating, you are expected to uphold this code. Please report unacceptable
+ behavior to any of the [project's core team]
+
+
+| We need more colaborations or people involved in this modest project which I think it could be cool, perhaps.
+| time will tell. ;-)
+
+## Authors
+
+Felipe Alfonso Gonzalez // Software Engineer / Soft Developer.
+
+* Felipe - Admin/Founder - [@felipealfonsog](http://twitter.com/felipealfonsog)
+
+
+
+
+## Copyright and license
+ 
+Copyright JS Foundation and other contributors, http://js.foundation under [the GPU/GPL](LICENSE).
