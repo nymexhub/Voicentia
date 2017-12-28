@@ -38,6 +38,10 @@ io.on('connection', function(socket) {
   socket.on('chat message', (text) => {
     console.log('Message: ' + text);
 
+
+// io.on('connection', function )
+
+
     // Get a reply from API.ai
 
     let apiaiReq = apiai.textRequest(text, {
