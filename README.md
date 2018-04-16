@@ -1,4 +1,4 @@
-# Talkative.AI
+# Talkative.JS
 
 [![Build Status](https://travis-ci.org/node-red/node-red.svg)](https://travis-ci.org/theatherflix/theatherflix)
 [![Coverage Status](https://coveralls.io/repos/node-red/node-red/badge.svg?branch=master)](https://coveralls.io/r/theatherflix/theatherflix?branch=master) 
