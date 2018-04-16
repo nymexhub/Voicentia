@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/node-red/node-red.svg)](https://travis-ci.org/theatherflix/theatherflix)
 [![Coverage Status](https://coveralls.io/repos/node-red/node-red/badge.svg?branch=master)](https://coveralls.io/r/theatherflix/theatherflix?branch=master) 
 
-Thi is a AI project made up with node.js and crafted by some other tools I found. It's an artefact that I started to measure out in some way to develop AI through the web, by recognizing your speech.
+Thi is a AI project made up with node.js and crafted by some other tools. It's an artefact that I started to measure out I would say , a pretty nuclear and elemental way to develop AI through the web, by recognizing your speech.
 
 ## Quick Start
 
