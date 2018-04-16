@@ -42,7 +42,7 @@ io.on('connection', function(socket) {
 // io.on('connection', function )
 
 
-    // Get a reply from API.ai
+    // Get a reply from API.ai or DialogFlow by Google.
 
     let apiaiReq = apiai.textRequest(text, {
       sessionId: APIAI_SESSION_ID
