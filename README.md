@@ -1,4 +1,4 @@
-# Talktative.JS
+# ExMachina.JS
 
 v 2.1.2
 
