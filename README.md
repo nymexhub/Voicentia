@@ -45,7 +45,7 @@ If you want to run the latest code from git, here's how to get started:
 Felipe Alfonso Gonzalez // Software Engineer / Soft Developer. 
 
 ## Questions?
-Write out: felipe@nodeio.us
+Write out: f.alfonso@res-ear.ch
 
 
 ## Copyright and license
