@@ -12,7 +12,8 @@
   "dependencies": {
     "apiai": "^4.0.3",
     "ejs": "^2.5.6",
-    "express": "^4.15.2",
+    "express": "^4.16.3",
+    "node-tesseract": "^0.2.7",
     "socketio": "^1.0.0"
   }
 }
