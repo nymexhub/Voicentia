@@ -12,6 +12,7 @@ APIAI_SESSION_ID=362336f9ee4e49b697fc0a58730f0756
 const APIAI_TOKEN = "5e11b4dd715345e39a29a7ce36dbec78";
 const APIAI_SESSION_ID = "e5ab9c48a51c4fcabe9ebcb4210fe29e";
 
+
 const express = require('express');
 const app = express();
 
@@ -38,11 +39,7 @@ io.on('connection', function(socket) {
   socket.on('chat message', (text) => {
     console.log('Message: ' + text);
 
-
-// io.on('connection', function )
-
-
-    // Get a reply from API.ai or DialogFlow by Google.
+    // Get a reply from API.ai
 
     let apiaiReq = apiai.textRequest(text, {
       sessionId: APIAI_SESSION_ID
