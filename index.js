@@ -7,6 +7,7 @@ APIAI_TOKEN=2671bbda5d1e462fa4058768971df9c0
 APIAI_SESSION_ID=362336f9ee4e49b697fc0a58730f0756
 
 */
+require('dotenv').config()
 const APIAI_TOKEN = "5e11b4dd715345e39a29a7ce36dbec78";
 const APIAI_SESSION_ID = "e5ab9c48a51c4fcabe9ebcb4210fe29e";
 
