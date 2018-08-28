@@ -19,16 +19,16 @@ If you want to run the latest code from git, here's how to get started:
 
 if you wanna make it quick:
 
-it clone -b development --single-branch https://github.com/MoodyLabs/ExMachina.JS.git ExMachina.JS_Dev
+it clone -b development --single-branch https://github.com/.... VoiceOut.js_Dev
 
 
 
-        git clone git@github.com:MoodyLabs/ExMachina.JS.git
+        git clone git@github.com:...
         cd ExMachina.JS
 
 Or
 
-        git clone https://github.com/MoodyLabs/ExMachina.JS.git
+        git clone https://github.com/MoodyLabs/ ....
         cd ExMachina.JS
 
 2. Install the theatherflix dependencies
