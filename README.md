@@ -1,4 +1,4 @@
-# VoiceOut.js
+# VoiceOut
 
 
 v 2.1.2
@@ -19,7 +19,7 @@ If you want to run the latest code from git, here's how to get started:
 
 if you wanna make it quick:
 
-it clone -b development --single-branch https://github.com/.... VoiceOut.js_Dev
+it clone -b development --single-branch https://github.com/.... VoiceOut_Dev
 
 
 
