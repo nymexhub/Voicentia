@@ -24,7 +24,8 @@ it clone -b development --single-branch https://github.com/.... VoiceOut_Dev
 
 
         git clone git@github.com:...
-        cd ExMachina.JS
+        cd dir ...
+        
 
 Or
 
