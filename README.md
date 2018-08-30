@@ -28,7 +28,7 @@ it clone -b development --single-branch https://github.com/.... VoiceOut_Dev
 
 Or
 
-        git clone https://github.com/MoodyLabs/ ....
+        git clone https://github.com/AardvarkLabs/ ....
         cd ExMachina.JS
 
 2. Install the theatherflix dependencies
