@@ -1,4 +1,4 @@
-# VoiceOut
+# Loquacious
 
 
 v 2.1.2
@@ -19,7 +19,7 @@ If you want to run the latest code from git, here's how to get started:
 
 if you wanna make it quick:
 
-it clone -b development --single-branch https://github.com/.... VoiceOut_Dev
+it clone -b development --single-branch https://github.com/.... Dir ..
 
 
 
@@ -30,7 +30,7 @@ it clone -b development --single-branch https://github.com/.... VoiceOut_Dev
 Or
 
         git clone https://github.com/AardvarkLabs/ ....
-        cd ExMachina.JS
+        cd dir ...
 
 2. Install the theatherflix dependencies
 
