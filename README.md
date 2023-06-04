@@ -1,6 +1,5 @@
 # Loquacious
 
-
 v 2.1.2
 
 This is a AI project made up with node.js and crafted by some other tools. It's an artefact that I started to measure out I would say , a pretty nuclear and elemental way to develop AI through the web, by recognizing your speech, & soon, your mood...
@@ -54,12 +53,7 @@ Or
  behavior to any of the [project's core team]
 
 ## Author
-
-Felipe Alfonso Gonzalez // Software Engineer / Soft Developer. 
-
-## Questions?
-Write out: f.alfonso@res-ear.ch
-
+By Computer Science Engineer: Felipe Alfonso Gonzalez / EMail: (f.alfonso@res-ear.ch)
 
 ## Copyright and license
  
