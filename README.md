@@ -1,4 +1,4 @@
-# ExMachina.JS
+# Loquacius
 
 v 2.1.2
 
@@ -52,12 +52,7 @@ Or
  behavior to any of the [project's core team]
 
 ## Author
-
-Felipe Alfonso Gonzalez // Software Engineer / Soft Developer. 
-
-## Questions?
-Write out: f.alfonso@res-ear.ch
-
+By Computer Science Engineer: Felipe Alfonso Gonzalez / EMail: (f.alfonso@res-ear.ch)
 
 ## Copyright and license
  
