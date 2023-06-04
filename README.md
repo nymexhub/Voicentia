@@ -2,7 +2,7 @@
 
 v 2.1.2
 
-This is a AI project made up with node.js and crafted by some other tools. It's an artefact that I started to measure out I would say , a pretty nuclear and elemental way to develop AI through the web, by recognizing your speech, & soon, your mood...
+This is a AI project made up with node.js and crafted by some other tools. It's an artefact that I started to measure out I would say , a pretty nuclear and elemental way to develop AI through the web, by recognizing your speech, etc.
 
 ## Quick Start
 
