@@ -12,7 +12,7 @@
   "dependencies": {
     "apiai": "^4.0.3",
     "dotenv": "^6.2.0",
-    "ejs": "^2.6.1",
+    "ejs": "^3.1.7",
     "express": "^4.16.4",
     "node-tesseract": "^0.2.7",
     "socket.io": "^2.2.0",
