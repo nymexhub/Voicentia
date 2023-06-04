@@ -1,4 +1,4 @@
-# Loquacius
+# Loquacious
 
 v 2.1.2
 
@@ -18,17 +18,18 @@ If you want to run the latest code from git, here's how to get started:
 
 if you wanna make it quick:
 
-it clone -b development --single-branch https://github.com/MoodyLabs/ExMachina.JS.git ExMachina.JS_Dev
+it clone -b development --single-branch https://github.com/.... Dir ..
 
 
 
-        git clone git@github.com:MoodyLabs/ExMachina.JS.git
-        cd ExMachina.JS
+        git clone git@github.com:...
+        cd dir ...
+        
 
 Or
 
-        git clone https://github.com/MoodyLabs/ExMachina.JS.git
-        cd ExMachina.JS
+        git clone https://github.com/AardvarkLabs/ ....
+        cd dir ...
 
 2. Install the theatherflix dependencies
 
