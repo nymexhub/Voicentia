@@ -32,6 +32,4 @@ This project adheres to the [Contributor Covenant 1.4](http://contributor-covena
 This project is authored by Felipe Alfonso Gonzalez, a Computer Science Engineer.
 You can contact him via email at: f.alfonso@res-ear.ch 📧
 
-#### License
-
-This project is licensed under the [MIT](LICENSE).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
