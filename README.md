@@ -1,6 +1,6 @@
 # Voicentia 🎙️🤖
 
-Voicentia is an AI project developed with Node.js and crafted using various other tools. It's an artifact that I started to build to explore a powerful and fundamental way to develop AI through the web, particularly focused on speech recognition and more.
+Voicentia is an AI project developed using Node.js and a combination of modern tools. It's an exciting initiative that I've been working on to explore a powerful and practical approach to AI development through the web, with a specific emphasis on speech recognition and more.
 
 #### Quick Start 🚀
 
