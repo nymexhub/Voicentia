@@ -22,47 +22,6 @@ nodemon index.js
 http://localhost:5000
 ```
 
-#### Developers 👩‍💻👨‍💻
-
-If you want to run the latest code from the Git repository, follow these steps:
-
-        - Clone the repository using one of the following methods:
-        
-        If you prefer SSH:
-        
-        ```
-        git clone git@github.com:felipealfonsog/Voicentia.git
-        cd repo
-        ```
-        
-        Or if you prefer HTTPS:
-        
-        ```
-        git clone https://github.com/felipealfonsog/Voicentia.git
-        cd repo
-        ```
-        
-        - Install the required dependencies:
-           
-        ```
-        npm install
-        ```
-        
-        - Build the code:
-           
-        ```
-        npm run build
-        ```
-        
-        - Run the application using either of the following commands:
-           
-        ```
-        npm start
-        ```
-        
-        ```
-        node app.js
-        ```
 
 #### Contributing 🤝
 
