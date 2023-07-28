@@ -26,7 +26,7 @@ http://localhost:5000
 
 If you want to run the latest code from the Git repository, follow these steps:
 
-        1. Clone the repository using one of the following methods:
+        - Clone the repository using one of the following methods:
         
         If you prefer SSH:
         
@@ -42,19 +42,19 @@ If you want to run the latest code from the Git repository, follow these steps:
         cd repo
         ```
         
-        2. Install the required dependencies:
+        - Install the required dependencies:
            
         ```
         npm install
         ```
         
-        3. Build the code:
+        - Build the code:
            
         ```
         npm run build
         ```
         
-        4. Run the application using either of the following commands:
+        - Run the application using either of the following commands:
            
         ```
         npm start
