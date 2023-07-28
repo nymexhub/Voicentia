@@ -1,58 +1,78 @@
-# Voicentia
+# Voicentia 🎙️🤖
 
-This is a AI project made up with node.js and crafted by some other tools. It's an artefact that I started to measure out I would say , a pretty nuclear and elemental way to develop AI through the web, by recognizing your speech, etc.
+Voicentia is an AI project developed with Node.js and crafted using various other tools. It's an artifact that I started to build to explore a powerful and fundamental way to develop AI through the web, particularly focused on speech recognition and more.
 
-## Quick Start
+#### Quick Start 🚀
 
-1. `sudo npm install`
-2. `nodemon index.js`
-3. Open <http://localhost:5000>
+1. Install the required dependencies:
+   
+```
+sudo npm install
+```
 
-## Developers
+2. Run the project using `nodemon`:
+   
+```
+nodemon index.js
+```
 
-If you want to run the latest code from git, here's how to get started:
+3. Open your web browser and go to
+   
+```
+http://localhost:5000
+```
 
-1. Clone the code:
+#### Developers 👩‍💻👨‍💻
 
-if you wanna make it quick:
+If you want to run the latest code from the Git repository, follow these steps:
 
-it clone -b development --single-branch https://github.com/.... Dir ..
-
-
-
-        git clone git@github.com:...
-        cd dir ...
+        1. Clone the repository using one of the following methods:
         
-
-Or
-
-        git clone https://github.com/AardvarkLabs/ ....
-        cd dir ...
-
-2. Install the theatherflix dependencies
-
+        If you prefer SSH:
+        
+        ```
+        git clone git@github.com:felipealfonsog/Voicentia.git
+        cd repo
+        ```
+        
+        Or if you prefer HTTPS:
+        
+        ```
+        git clone https://github.com/felipealfonsog/Voicentia.git
+        cd repo
+        ```
+        
+        2. Install the required dependencies:
+           
+        ```
         npm install
-
-3. Build the code
-
+        ```
+        
+        3. Build the code:
+           
+        ```
         npm run build
-
-4. Run
-
+        ```
+        
+        4. Run the application using either of the following commands:
+           
+        ```
         npm start
-   or
-
+        ```
+        
+        ```
         node app.js
+        ```
 
-## Contributing
+#### Contributing 🤝
 
- This project adheres to the [Contributor Covenant 1.4](http://contributor-covenant.org/version/1/4/).
- By participating, you are expected to uphold this code. Please report unacceptable
- behavior to any of the [project's core team]
+This project adheres to the [Contributor Covenant 1.4](http://contributor-covenant.org/version/1/4/). By participating, you are expected to uphold this code of conduct. Please report any unacceptable behavior to the [project's core team] ❗
 
-## Author
-By Computer Science Engineer: Felipe Alfonso Gonzalez / EMail: (f.alfonso@res-ear.ch)
+#### Author 📝
 
-## Copyright and license
- 
-Copyright JS Foundation and other contributors, http://js.foundation under [the GPU/GPL](LICENSE).
+This project is authored by Felipe Alfonso Gonzalez, a Computer Science Engineer.
+You can contact him via email at: f.alfonso@res-ear.ch 📧
+
+#### Copyright and License ©️
+
+This project is licensed under the [GNU GPL](LICENSE).
